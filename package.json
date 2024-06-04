@@ -1,0 +1,14 @@
+{
+  "name": "fye-ui",
+  "version": "1.0.0",
+  "description": "the most totally ill UI components on the open market. enjoy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ty riviere",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
