@@ -1,3 +1,3 @@
 # [🔥](https://github.com/triviere19/fye-ui) components
 
-## [loading](/loading)
+## [loading](https://github.com/triviere19/fye-ui/loading)
